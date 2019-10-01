@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
+//import PropTypes from 'prop-types';
 import {
   Image,
   Text,
@@ -316,6 +316,7 @@ Slideshow.defaultProps = {
   arrowSize: 16,
 }
 
+/*
 Slideshow.propTypes = {
 	dataSource: PropTypes.arrayOf(PropTypes.shape({
 	    title: PropTypes.string,
@@ -336,6 +337,7 @@ Slideshow.propTypes = {
 	onPress: PropTypes.func,
 	onPositionChanged: PropTypes.func,
 };
+*/
 
 const setIndicatorSize = function (size) {
   return {
