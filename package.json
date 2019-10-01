@@ -21,4 +21,5 @@
     "url": "https://github.com/haqiqiw/react-native-slideshow/issues"
   },
   "homepage": "https://github.com/haqiqiw/react-native-slideshow#readme"
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
